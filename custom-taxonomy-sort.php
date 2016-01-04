@@ -5,7 +5,7 @@ Plugin URI: http://www.zackdev.com
 Description: Custom Taxonomy Sort allows you to explicitly control the sort order of all taxonomy terms.
 Author: Zack Tollman
 Author URI: https://twitter.com/#!/zack_dev
-Version: 1.1.5
+Version: 1.1.6
 
 Plugin: Copyright 2011 Zack Tollman (email: zack [at] zackdev [dot] com)
 
