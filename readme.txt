@@ -4,7 +4,7 @@ Donate link: http://www.zackdev.com/
 Tags: taxonomy, category, sort
 Requires at least: 3.1
 Tested up to: 3.3
-Stable tag: 1.1.5
+Stable tag: 1.1.6
 
 Custom Taxonomy Sort allows you to explicitly control the sort order of all taxonomy terms.
 
@@ -66,6 +66,10 @@ After installing the plugin, all taxonomies will be automatically sorted by your
 4. Settings page
 
 == Changelog ==
+
+= 1.1.6 =
+* This version is not official since the author seems to have not made any updates to Github or Subversion for 4 years. Hopefully they will fix this but until then, we are maintaining a fork since we rely on this plugin.
+* WP 4.4 changes require checking to see if functions are already declared: update_termmeta_cache, add_term_meta, delete_term_meta, get_term_meta and update_term_meta.
 
 = 1.1.5 =
 * Fixed bug with returning an inappropriate value for "column_value". Thanks to @martindj.
